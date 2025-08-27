@@ -9,8 +9,8 @@ const projects = [
     icon: MessageSquare,
     tag: "Full-Stack",
     stack: ["MERN", "Socket.IO", "JWT", "Real-time"],
-    features: ["Auth (JWT)", "Group & private chat", "Online status", "Notifications"],
-    demo: "#", source: "#",
+    features: ["Auth (JWT)", "Online status", "Notifications","Real Time Chat"],
+    demo: "https://chatapp-xu0h.onrender.com/", source: "https://github.com/roybithika18/chatapp.git",
   },
   {
     title: "Real Estate Platform",
@@ -18,15 +18,15 @@ const projects = [
     tag: "Full-Stack",
     stack: ["MERN", "OAuth", "CRUD", "Search/Filters"],
     features: ["OAuth login", "Property CRUD", "Advanced filters", "Responsive UI"],
-    demo: "#", source: "#",
+    demo: "#", source: "https://github.com/roybithika18/roy_estate.git",
   },
   {
     title: "Employee Management System",
     icon: Users2,
-    tag: "Backend",
-    stack: ["Java", "Servlets/JSP", "Oracle SQL", "JDBC"],
-    features: ["Role-based access", "Payroll basics", "Search", "Attendance"],
-    demo: "#", source: "#",
+    tag: "FrontEnd",
+    stack: ["JavaScript", "HTML", "CSS", "React.js", "TailWind CSS"],
+    features: ["User Authentication (Login/Logout)", "Role-Based Access", "Secure Session Handling", "Analytics Dashboard"],
+    demo: "#", source: "https://github.com/roybithika18/Employeemangementsystem.git",
   },
   {
     title: "Rainfall Prediction (SVM)",
@@ -34,7 +34,7 @@ const projects = [
     tag: "AI/ML",
     stack: ["Python", "scikit-learn", "Pandas", "NumPy"],
     features: ["SVM model", "Data preprocessing", "Evaluation metrics", "Visualization"],
-    demo: "#", source: "#",
+    demo: "#", source: "https://github.com/roybithika18/Machine-Learning-Based-Weather-Prediction-System-Final-Year-Project.git",
   },
 ];
 
