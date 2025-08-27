@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardContent } from "./ui/Card";
+import { Card, CardContent } from "./ui/card";
 import { Palette, Smartphone, Zap, Server, Layers, Shield } from "lucide-react";
 
 const services = [
