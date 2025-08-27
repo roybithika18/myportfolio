@@ -1,0 +1,14 @@
+/* src/index.css or src/App.css */
+
+/* Smooth transitions for scaling and shadow */
+.transition-all {
+  transition: all 0.3s ease-in-out;
+}
+
+.hover\:scale-105:hover {
+  transform: scale(1.05);
+}
+
+.hover\:shadow-2xl:hover {
+  box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);
+}
