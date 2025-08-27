@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardContent } from "./ui/Card";
+import { Card, CardContent } from "./ui/card";
 import { MessageSquare, Home, Users2, CloudRain } from "lucide-react";
 import { Button } from "./ui/Button";
 
